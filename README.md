@@ -1,20 +1,20 @@
-<center> 
+<p align="center"> 
     <img src="https://miro.medium.com/max/400/0*rTmSQjlQG_kGTUfR."/>
-</center>
+</p>
 
 # JUST GO
 
 > Learning Go by myself... =)
 
-Modules - ✅
-Http Client - ✅
-Http Server - ✅
-Environment Variables - ✅
-Marshal, Unmarshal, Decode, Encode
-Go Routines
-Channels
-Streams
-Queues
+Modules - ✅\
+Http Client - ✅\
+Http Server - ✅\
+Environment Variables - ✅\
+Marshal, Unmarshal, Decode, Encode\
+Go Routines\
+Channels\
+Streams\
+Queues\
 ...and more
 
 Sources:
